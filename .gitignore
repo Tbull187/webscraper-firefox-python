@@ -1,0 +1,4 @@
+.vscode
+geckodriver.log
+python
+.DS_Store
